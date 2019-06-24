@@ -1,6 +1,7 @@
 # Static Next.js
 
 In this example we will be deploying a simple "Hello World" example with Next.js static export
+Here some update
 
 ### Getting started with Next.js
 
